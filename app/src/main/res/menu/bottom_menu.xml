@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="item1"
+    android:icon="@drawable/ic_item1"
+    android:id="@+id/item1"
+    android:orderInCategory="1"
+    />
+    <item
+    android:title="item2"
+    android:icon="@drawable/ic_item2"
+    android:id="@+id/item2"
+    android:orderInCategory="2"
+    />
+    <item
+    android:title="item3"
+    android:icon="@drawable/ic_item3"
+    android:id="@+id/item3"
+    android:orderInCategory="3"
+    />
+</menu>
